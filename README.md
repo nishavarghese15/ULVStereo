@@ -4,7 +4,7 @@ Dataset proposed in "Sea-ing in Low-light", CVPR 2025.
 ![github_fig](https://github.com/user-attachments/assets/ed070442-d1a2-43d0-8a11-8872a99908e3)
 
 
-In process of updating this webpage.
+In the process of updating this webpage.
 
 ## Summary of ULVStereo
 
@@ -25,6 +25,8 @@ After you submit the request form, you will receive an e-mail notification (with
 ## Acknowledgement
 Support provided by the Department of Science and Technology, India through project No. EE1920271DSTX005001 is gratefully acknowledged. We thank Dr. Sundaresh and his team from National Institute of Oceanography, Goa for helping us in collecting the underwater data.
 
+## Contact
+If you have any queries, you can contact me at [nishavarghese15@gmail.com](mailto:nishavarghese15@gmail.com).
 
 ## Cite Us
 If you use DRUVA, please cite the following work:

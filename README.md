@@ -15,7 +15,7 @@ In the process of updating this webpage.
 
 
 ## How to access the Dataset?
-1. Read the ULVStereo release agreement: https://drive.google.com/file/d/1o_5mlieWYT9FwOlj1oDqbhzm6Q-13RAS/view?usp=sharing  
+1. Read the ULVStereo release agreement: https://docs.google.com/document/d/1glCUzk-qHYlqrM03jO0WsX_koEIlXu3z3eEkl7HgooU/edit?usp=sharing
 1. Obtain a signed copy of the above agreement form.  
 1. Enter your details in the request form https://docs.google.com/forms/d/e/1FAIpQLSfogZJEnT0VJL-xc8AaA4UXLm4HDZtj5v1Z1OLLrQW25G5ETQ/viewform?usp=sharing
 1. Upload the agreement as part of the request form.

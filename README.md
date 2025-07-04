@@ -36,6 +36,6 @@ If you use ULVStereo please cite the following work:
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month     = {June},
     year      = {2025},
-    pages     = {1-12}
+    pages     = {16629-16640}
 }
 ```
